@@ -11,6 +11,7 @@ Lately I've been working with Arduino, React, and data pipelines. I'm looking fo
 ### Outside of code 💭
 <!-- HOBBIES-START -->
 📖 Currently reading: Equal of the Sun
+
 🍰 Last baked: birthday cake for friend!
 <!-- HOBBIES-END -->
 
