@@ -8,12 +8,12 @@ I work as a research assistant in the EDGES Lab, where I build LLM pipelines for
 
 Lately I've been working with Arduino, React, and data pipelines. I'm looking for a Summer 2027 internship in software engineering or AI/ML.
 
-### Outside of code 💭
-<!-- HOBBIES-START -->
+<!-- ### Outside of code 💭
+<!-- HOBBIES-START
 📖 Currently reading: Equal of the Sun
 
 🍰 Last baked: birthday cake for friend!
-<!-- HOBBIES-END -->
+ HOBBIES-END -->
 
 <!--![Safiyyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=safiyyah976&show_icons=true&bg_color=E6F3FF&title_color=0366D6&text_color=24292F&icon_color=58A6FF&border_color=B6E0FE&border_radius=12)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiyyah976&layout=compact&bg_color=E6F3FF&title_color=0366D6&text_color=24292F&border_color=B6E0FE&border_radius=12)
